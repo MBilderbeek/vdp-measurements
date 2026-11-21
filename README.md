@@ -19,6 +19,7 @@ Each folder here belongs to a test in openMSX's `doc/internal/`:
 | `vdp-status-race/line-latch` | `doc/internal/vdp-status-race/line-latch.md` | the line counter reset (vdplc) |
 | `vdp-status-race/yjk-timing` | `doc/internal/vdp-status-race/yjk-timing.md` | YJK moves the picture, not the timing; the latch moves with R#18 |
 | `vdp-status-race/yjk-gap` | `doc/internal/vdp-status-race/yjk-gap.md` | the 4 pixels before a YJK picture (photos) |
+| `vdp-status-race/nt-field` | `doc/internal/vdp-status-race/nt-field.md` | an NT write in the middle of a field |
 
 Machines: Panasonic FS-A1GT (V9958, with the S1990's extra wait on VDP I/O), Sony HB-F700D
 (V9938), Philips NMS 8250 with its V9938 replaced by a V9958 (no extra wait). Files are
