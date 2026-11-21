@@ -27,3 +27,9 @@ named after the machine: `fs-a1gt`, `hb-f700d`, `nms8250-v9958`.
 
 The file formats are described in the README of each test in openMSX, and the scripts there
 (`summary.py`, `fit.py`) read these files.
+
+`vdp-status-race/flag-positions/<machine>-edge-m3-*.txt` and `-edge-m4-*.txt` are `vdpedge`
+modes 3 and 4: two CPU writes to VRAM in quick succession (AAh, then 55h, 14 Z80 cycles
+apart; columns: mode 3 second write lost, both written, other; mode 4 (55h, 00h, 00h),
+(AAh, 55h, 00h), other, plus all byte triples read back as `T` lines). The question they
+answer is the one of `vdp-vram-timing/cpu-write-pairs`, which measured it in full.
