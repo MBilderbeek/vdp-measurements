@@ -16,6 +16,7 @@ Each folder here belongs to a test in openMSX's `doc/internal/`:
 | `vdp-status-race/output-delay` | `doc/internal/vdp-status-race/output-delay.md` | the interrupt line and the picture lag the status flags |
 | `vdp-status-race/flag-positions` | `doc/internal/vdp-status-race/flag-positions.md` | where in the line HR, VR, F and FH change |
 | `vdp-status-race/r23-groups` | `doc/internal/vdp-status-race/r23-groups.md` | a mid-line R#23 write takes effect per 8-pixel group (photos) |
+| `vdp-status-race/line-latch` | `doc/internal/vdp-status-race/line-latch.md` | the line counter reset (vdplc) |
 
 Machines: Panasonic FS-A1GT (V9958, with the S1990's extra wait on VDP I/O), Sony HB-F700D
 (V9938), Philips NMS 8250 with its V9938 replaced by a V9958 (no extra wait). Files are
