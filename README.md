@@ -5,13 +5,14 @@ things. The tests themselves, how to run them, how to read their results, a summ
 conclusions are in openMSX's repository, under `doc/internal/`; this repository only keeps
 the full results, so that the conclusions can be checked against all of them.
 
-Each folder here has the same name as the folder of its test in openMSX's `doc/internal/`:
+Each folder here belongs to a test in openMSX's `doc/internal/`:
 
 | folder | test (in openMSX) | what it measures |
 |---|---|---|
 | `vdp-vram-timing/cpu-write-pairs` | `doc/internal/vdp-vram-timing/cpu-write-pairs` | two CPU writes to VRAM in quick succession: which byte lands where |
 | `vdp-vram-timing/command-slots` | `doc/internal/vdp-vram-timing/command-slots` | when a short command finishes, relative to HR |
 | `vdp-vram-timing/command-end` | `doc/internal/vdp-vram-timing/command-end` | when CE clears after a command |
+| `vdp-status-race/flag-race` | `doc/internal/vdp-status-race` | a status read that loses F or FH being set |
 
 Machines: Panasonic FS-A1GT (V9958, with the S1990's extra wait on VDP I/O), Sony HB-F700D
 (V9938), Philips NMS 8250 with its V9938 replaced by a V9958 (no extra wait). Files are
