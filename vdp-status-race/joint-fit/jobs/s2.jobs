@@ -1,0 +1,840 @@
+s2a od21-f7-15@d0 Panasonic_FS-A1GT irq OD=21 FB=7 FA=15
+s2a od21-f7-15@d0 Sony_HB-F700D irq OD=21 FB=7 FA=15
+s2a od21-f7-15@d0 Philips_NMS_8250_V9958 irq OD=21 FB=7 FA=15
+s2a od21-f7-15@d13 Panasonic_FS-A1GT irq-d13 OD=21 FB=7 FA=15
+s2a od21-f7-15@d13 Sony_HB-F700D irq-d13 OD=21 FB=7 FA=15
+s2a od21-f7-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=21 FB=7 FA=15
+s2a od21-f7-15@d29 Panasonic_FS-A1GT irq-d29 OD=21 FB=7 FA=15
+s2a od21-f7-15@d29 Sony_HB-F700D irq-d29 OD=21 FB=7 FA=15
+s2a od21-f7-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=21 FB=7 FA=15
+s2a od21-f10-18@d0 Panasonic_FS-A1GT irq OD=21 FB=10 FA=18
+s2a od21-f10-18@d0 Sony_HB-F700D irq OD=21 FB=10 FA=18
+s2a od21-f10-18@d0 Philips_NMS_8250_V9958 irq OD=21 FB=10 FA=18
+s2a od21-f10-18@d13 Panasonic_FS-A1GT irq-d13 OD=21 FB=10 FA=18
+s2a od21-f10-18@d13 Sony_HB-F700D irq-d13 OD=21 FB=10 FA=18
+s2a od21-f10-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=21 FB=10 FA=18
+s2a od21-f10-18@d29 Panasonic_FS-A1GT irq-d29 OD=21 FB=10 FA=18
+s2a od21-f10-18@d29 Sony_HB-F700D irq-d29 OD=21 FB=10 FA=18
+s2a od21-f10-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=21 FB=10 FA=18
+s2a od21-f7-18@d0 Panasonic_FS-A1GT irq OD=21 FB=7 FA=18
+s2a od21-f7-18@d0 Sony_HB-F700D irq OD=21 FB=7 FA=18
+s2a od21-f7-18@d0 Philips_NMS_8250_V9958 irq OD=21 FB=7 FA=18
+s2a od21-f7-18@d13 Panasonic_FS-A1GT irq-d13 OD=21 FB=7 FA=18
+s2a od21-f7-18@d13 Sony_HB-F700D irq-d13 OD=21 FB=7 FA=18
+s2a od21-f7-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=21 FB=7 FA=18
+s2a od21-f7-18@d29 Panasonic_FS-A1GT irq-d29 OD=21 FB=7 FA=18
+s2a od21-f7-18@d29 Sony_HB-F700D irq-d29 OD=21 FB=7 FA=18
+s2a od21-f7-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=21 FB=7 FA=18
+s2a od21-f10-15@d0 Panasonic_FS-A1GT irq OD=21 FB=10 FA=15
+s2a od21-f10-15@d0 Sony_HB-F700D irq OD=21 FB=10 FA=15
+s2a od21-f10-15@d0 Philips_NMS_8250_V9958 irq OD=21 FB=10 FA=15
+s2a od21-f10-15@d13 Panasonic_FS-A1GT irq-d13 OD=21 FB=10 FA=15
+s2a od21-f10-15@d13 Sony_HB-F700D irq-d13 OD=21 FB=10 FA=15
+s2a od21-f10-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=21 FB=10 FA=15
+s2a od21-f10-15@d29 Panasonic_FS-A1GT irq-d29 OD=21 FB=10 FA=15
+s2a od21-f10-15@d29 Sony_HB-F700D irq-d29 OD=21 FB=10 FA=15
+s2a od21-f10-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=21 FB=10 FA=15
+s2a od24-f7-15@d0 Panasonic_FS-A1GT irq OD=24 FB=7 FA=15
+s2a od24-f7-15@d0 Sony_HB-F700D irq OD=24 FB=7 FA=15
+s2a od24-f7-15@d0 Philips_NMS_8250_V9958 irq OD=24 FB=7 FA=15
+s2a od24-f7-15@d13 Panasonic_FS-A1GT irq-d13 OD=24 FB=7 FA=15
+s2a od24-f7-15@d13 Sony_HB-F700D irq-d13 OD=24 FB=7 FA=15
+s2a od24-f7-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=24 FB=7 FA=15
+s2a od24-f7-15@d29 Panasonic_FS-A1GT irq-d29 OD=24 FB=7 FA=15
+s2a od24-f7-15@d29 Sony_HB-F700D irq-d29 OD=24 FB=7 FA=15
+s2a od24-f7-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=24 FB=7 FA=15
+s2a od24-f10-18@d0 Panasonic_FS-A1GT irq OD=24 FB=10 FA=18
+s2a od24-f10-18@d0 Sony_HB-F700D irq OD=24 FB=10 FA=18
+s2a od24-f10-18@d0 Philips_NMS_8250_V9958 irq OD=24 FB=10 FA=18
+s2a od24-f10-18@d13 Panasonic_FS-A1GT irq-d13 OD=24 FB=10 FA=18
+s2a od24-f10-18@d13 Sony_HB-F700D irq-d13 OD=24 FB=10 FA=18
+s2a od24-f10-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=24 FB=10 FA=18
+s2a od24-f10-18@d29 Panasonic_FS-A1GT irq-d29 OD=24 FB=10 FA=18
+s2a od24-f10-18@d29 Sony_HB-F700D irq-d29 OD=24 FB=10 FA=18
+s2a od24-f10-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=24 FB=10 FA=18
+s2a od24-f7-18@d0 Panasonic_FS-A1GT irq OD=24 FB=7 FA=18
+s2a od24-f7-18@d0 Sony_HB-F700D irq OD=24 FB=7 FA=18
+s2a od24-f7-18@d0 Philips_NMS_8250_V9958 irq OD=24 FB=7 FA=18
+s2a od24-f7-18@d13 Panasonic_FS-A1GT irq-d13 OD=24 FB=7 FA=18
+s2a od24-f7-18@d13 Sony_HB-F700D irq-d13 OD=24 FB=7 FA=18
+s2a od24-f7-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=24 FB=7 FA=18
+s2a od24-f7-18@d29 Panasonic_FS-A1GT irq-d29 OD=24 FB=7 FA=18
+s2a od24-f7-18@d29 Sony_HB-F700D irq-d29 OD=24 FB=7 FA=18
+s2a od24-f7-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=24 FB=7 FA=18
+s2a od24-f10-15@d0 Panasonic_FS-A1GT irq OD=24 FB=10 FA=15
+s2a od24-f10-15@d0 Sony_HB-F700D irq OD=24 FB=10 FA=15
+s2a od24-f10-15@d0 Philips_NMS_8250_V9958 irq OD=24 FB=10 FA=15
+s2a od24-f10-15@d13 Panasonic_FS-A1GT irq-d13 OD=24 FB=10 FA=15
+s2a od24-f10-15@d13 Sony_HB-F700D irq-d13 OD=24 FB=10 FA=15
+s2a od24-f10-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=24 FB=10 FA=15
+s2a od24-f10-15@d29 Panasonic_FS-A1GT irq-d29 OD=24 FB=10 FA=15
+s2a od24-f10-15@d29 Sony_HB-F700D irq-d29 OD=24 FB=10 FA=15
+s2a od24-f10-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=24 FB=10 FA=15
+s2a od27-f7-15@d0 Panasonic_FS-A1GT irq OD=27 FB=7 FA=15
+s2a od27-f7-15@d0 Sony_HB-F700D irq OD=27 FB=7 FA=15
+s2a od27-f7-15@d0 Philips_NMS_8250_V9958 irq OD=27 FB=7 FA=15
+s2a od27-f7-15@d13 Panasonic_FS-A1GT irq-d13 OD=27 FB=7 FA=15
+s2a od27-f7-15@d13 Sony_HB-F700D irq-d13 OD=27 FB=7 FA=15
+s2a od27-f7-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=27 FB=7 FA=15
+s2a od27-f7-15@d29 Panasonic_FS-A1GT irq-d29 OD=27 FB=7 FA=15
+s2a od27-f7-15@d29 Sony_HB-F700D irq-d29 OD=27 FB=7 FA=15
+s2a od27-f7-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=27 FB=7 FA=15
+s2a od27-f10-18@d0 Panasonic_FS-A1GT irq OD=27 FB=10 FA=18
+s2a od27-f10-18@d0 Sony_HB-F700D irq OD=27 FB=10 FA=18
+s2a od27-f10-18@d0 Philips_NMS_8250_V9958 irq OD=27 FB=10 FA=18
+s2a od27-f10-18@d13 Panasonic_FS-A1GT irq-d13 OD=27 FB=10 FA=18
+s2a od27-f10-18@d13 Sony_HB-F700D irq-d13 OD=27 FB=10 FA=18
+s2a od27-f10-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=27 FB=10 FA=18
+s2a od27-f10-18@d29 Panasonic_FS-A1GT irq-d29 OD=27 FB=10 FA=18
+s2a od27-f10-18@d29 Sony_HB-F700D irq-d29 OD=27 FB=10 FA=18
+s2a od27-f10-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=27 FB=10 FA=18
+s2a od27-f7-18@d0 Panasonic_FS-A1GT irq OD=27 FB=7 FA=18
+s2a od27-f7-18@d0 Sony_HB-F700D irq OD=27 FB=7 FA=18
+s2a od27-f7-18@d0 Philips_NMS_8250_V9958 irq OD=27 FB=7 FA=18
+s2a od27-f7-18@d13 Panasonic_FS-A1GT irq-d13 OD=27 FB=7 FA=18
+s2a od27-f7-18@d13 Sony_HB-F700D irq-d13 OD=27 FB=7 FA=18
+s2a od27-f7-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=27 FB=7 FA=18
+s2a od27-f7-18@d29 Panasonic_FS-A1GT irq-d29 OD=27 FB=7 FA=18
+s2a od27-f7-18@d29 Sony_HB-F700D irq-d29 OD=27 FB=7 FA=18
+s2a od27-f7-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=27 FB=7 FA=18
+s2a od27-f10-15@d0 Panasonic_FS-A1GT irq OD=27 FB=10 FA=15
+s2a od27-f10-15@d0 Sony_HB-F700D irq OD=27 FB=10 FA=15
+s2a od27-f10-15@d0 Philips_NMS_8250_V9958 irq OD=27 FB=10 FA=15
+s2a od27-f10-15@d13 Panasonic_FS-A1GT irq-d13 OD=27 FB=10 FA=15
+s2a od27-f10-15@d13 Sony_HB-F700D irq-d13 OD=27 FB=10 FA=15
+s2a od27-f10-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=27 FB=10 FA=15
+s2a od27-f10-15@d29 Panasonic_FS-A1GT irq-d29 OD=27 FB=10 FA=15
+s2a od27-f10-15@d29 Sony_HB-F700D irq-d29 OD=27 FB=10 FA=15
+s2a od27-f10-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=27 FB=10 FA=15
+s2a od30-f7-15@d0 Panasonic_FS-A1GT irq OD=30 FB=7 FA=15
+s2a od30-f7-15@d0 Sony_HB-F700D irq OD=30 FB=7 FA=15
+s2a od30-f7-15@d0 Philips_NMS_8250_V9958 irq OD=30 FB=7 FA=15
+s2a od30-f7-15@d13 Panasonic_FS-A1GT irq-d13 OD=30 FB=7 FA=15
+s2a od30-f7-15@d13 Sony_HB-F700D irq-d13 OD=30 FB=7 FA=15
+s2a od30-f7-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=30 FB=7 FA=15
+s2a od30-f7-15@d29 Panasonic_FS-A1GT irq-d29 OD=30 FB=7 FA=15
+s2a od30-f7-15@d29 Sony_HB-F700D irq-d29 OD=30 FB=7 FA=15
+s2a od30-f7-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=30 FB=7 FA=15
+s2a od30-f10-18@d0 Panasonic_FS-A1GT irq OD=30 FB=10 FA=18
+s2a od30-f10-18@d0 Sony_HB-F700D irq OD=30 FB=10 FA=18
+s2a od30-f10-18@d0 Philips_NMS_8250_V9958 irq OD=30 FB=10 FA=18
+s2a od30-f10-18@d13 Panasonic_FS-A1GT irq-d13 OD=30 FB=10 FA=18
+s2a od30-f10-18@d13 Sony_HB-F700D irq-d13 OD=30 FB=10 FA=18
+s2a od30-f10-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=30 FB=10 FA=18
+s2a od30-f10-18@d29 Panasonic_FS-A1GT irq-d29 OD=30 FB=10 FA=18
+s2a od30-f10-18@d29 Sony_HB-F700D irq-d29 OD=30 FB=10 FA=18
+s2a od30-f10-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=30 FB=10 FA=18
+s2a od30-f7-18@d0 Panasonic_FS-A1GT irq OD=30 FB=7 FA=18
+s2a od30-f7-18@d0 Sony_HB-F700D irq OD=30 FB=7 FA=18
+s2a od30-f7-18@d0 Philips_NMS_8250_V9958 irq OD=30 FB=7 FA=18
+s2a od30-f7-18@d13 Panasonic_FS-A1GT irq-d13 OD=30 FB=7 FA=18
+s2a od30-f7-18@d13 Sony_HB-F700D irq-d13 OD=30 FB=7 FA=18
+s2a od30-f7-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=30 FB=7 FA=18
+s2a od30-f7-18@d29 Panasonic_FS-A1GT irq-d29 OD=30 FB=7 FA=18
+s2a od30-f7-18@d29 Sony_HB-F700D irq-d29 OD=30 FB=7 FA=18
+s2a od30-f7-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=30 FB=7 FA=18
+s2a od30-f10-15@d0 Panasonic_FS-A1GT irq OD=30 FB=10 FA=15
+s2a od30-f10-15@d0 Sony_HB-F700D irq OD=30 FB=10 FA=15
+s2a od30-f10-15@d0 Philips_NMS_8250_V9958 irq OD=30 FB=10 FA=15
+s2a od30-f10-15@d13 Panasonic_FS-A1GT irq-d13 OD=30 FB=10 FA=15
+s2a od30-f10-15@d13 Sony_HB-F700D irq-d13 OD=30 FB=10 FA=15
+s2a od30-f10-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=30 FB=10 FA=15
+s2a od30-f10-15@d29 Panasonic_FS-A1GT irq-d29 OD=30 FB=10 FA=15
+s2a od30-f10-15@d29 Sony_HB-F700D irq-d29 OD=30 FB=10 FA=15
+s2a od30-f10-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=30 FB=10 FA=15
+s2a od33-f7-15@d0 Panasonic_FS-A1GT irq OD=33 FB=7 FA=15
+s2a od33-f7-15@d0 Sony_HB-F700D irq OD=33 FB=7 FA=15
+s2a od33-f7-15@d0 Philips_NMS_8250_V9958 irq OD=33 FB=7 FA=15
+s2a od33-f7-15@d13 Panasonic_FS-A1GT irq-d13 OD=33 FB=7 FA=15
+s2a od33-f7-15@d13 Sony_HB-F700D irq-d13 OD=33 FB=7 FA=15
+s2a od33-f7-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=33 FB=7 FA=15
+s2a od33-f7-15@d29 Panasonic_FS-A1GT irq-d29 OD=33 FB=7 FA=15
+s2a od33-f7-15@d29 Sony_HB-F700D irq-d29 OD=33 FB=7 FA=15
+s2a od33-f7-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=33 FB=7 FA=15
+s2a od33-f10-18@d0 Panasonic_FS-A1GT irq OD=33 FB=10 FA=18
+s2a od33-f10-18@d0 Sony_HB-F700D irq OD=33 FB=10 FA=18
+s2a od33-f10-18@d0 Philips_NMS_8250_V9958 irq OD=33 FB=10 FA=18
+s2a od33-f10-18@d13 Panasonic_FS-A1GT irq-d13 OD=33 FB=10 FA=18
+s2a od33-f10-18@d13 Sony_HB-F700D irq-d13 OD=33 FB=10 FA=18
+s2a od33-f10-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=33 FB=10 FA=18
+s2a od33-f10-18@d29 Panasonic_FS-A1GT irq-d29 OD=33 FB=10 FA=18
+s2a od33-f10-18@d29 Sony_HB-F700D irq-d29 OD=33 FB=10 FA=18
+s2a od33-f10-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=33 FB=10 FA=18
+s2a od33-f7-18@d0 Panasonic_FS-A1GT irq OD=33 FB=7 FA=18
+s2a od33-f7-18@d0 Sony_HB-F700D irq OD=33 FB=7 FA=18
+s2a od33-f7-18@d0 Philips_NMS_8250_V9958 irq OD=33 FB=7 FA=18
+s2a od33-f7-18@d13 Panasonic_FS-A1GT irq-d13 OD=33 FB=7 FA=18
+s2a od33-f7-18@d13 Sony_HB-F700D irq-d13 OD=33 FB=7 FA=18
+s2a od33-f7-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=33 FB=7 FA=18
+s2a od33-f7-18@d29 Panasonic_FS-A1GT irq-d29 OD=33 FB=7 FA=18
+s2a od33-f7-18@d29 Sony_HB-F700D irq-d29 OD=33 FB=7 FA=18
+s2a od33-f7-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=33 FB=7 FA=18
+s2a od33-f10-15@d0 Panasonic_FS-A1GT irq OD=33 FB=10 FA=15
+s2a od33-f10-15@d0 Sony_HB-F700D irq OD=33 FB=10 FA=15
+s2a od33-f10-15@d0 Philips_NMS_8250_V9958 irq OD=33 FB=10 FA=15
+s2a od33-f10-15@d13 Panasonic_FS-A1GT irq-d13 OD=33 FB=10 FA=15
+s2a od33-f10-15@d13 Sony_HB-F700D irq-d13 OD=33 FB=10 FA=15
+s2a od33-f10-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=33 FB=10 FA=15
+s2a od33-f10-15@d29 Panasonic_FS-A1GT irq-d29 OD=33 FB=10 FA=15
+s2a od33-f10-15@d29 Sony_HB-F700D irq-d29 OD=33 FB=10 FA=15
+s2a od33-f10-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=33 FB=10 FA=15
+s2a od36-f7-15@d0 Panasonic_FS-A1GT irq OD=36 FB=7 FA=15
+s2a od36-f7-15@d0 Sony_HB-F700D irq OD=36 FB=7 FA=15
+s2a od36-f7-15@d0 Philips_NMS_8250_V9958 irq OD=36 FB=7 FA=15
+s2a od36-f7-15@d13 Panasonic_FS-A1GT irq-d13 OD=36 FB=7 FA=15
+s2a od36-f7-15@d13 Sony_HB-F700D irq-d13 OD=36 FB=7 FA=15
+s2a od36-f7-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=36 FB=7 FA=15
+s2a od36-f7-15@d29 Panasonic_FS-A1GT irq-d29 OD=36 FB=7 FA=15
+s2a od36-f7-15@d29 Sony_HB-F700D irq-d29 OD=36 FB=7 FA=15
+s2a od36-f7-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=36 FB=7 FA=15
+s2a od36-f10-18@d0 Panasonic_FS-A1GT irq OD=36 FB=10 FA=18
+s2a od36-f10-18@d0 Sony_HB-F700D irq OD=36 FB=10 FA=18
+s2a od36-f10-18@d0 Philips_NMS_8250_V9958 irq OD=36 FB=10 FA=18
+s2a od36-f10-18@d13 Panasonic_FS-A1GT irq-d13 OD=36 FB=10 FA=18
+s2a od36-f10-18@d13 Sony_HB-F700D irq-d13 OD=36 FB=10 FA=18
+s2a od36-f10-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=36 FB=10 FA=18
+s2a od36-f10-18@d29 Panasonic_FS-A1GT irq-d29 OD=36 FB=10 FA=18
+s2a od36-f10-18@d29 Sony_HB-F700D irq-d29 OD=36 FB=10 FA=18
+s2a od36-f10-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=36 FB=10 FA=18
+s2a od36-f7-18@d0 Panasonic_FS-A1GT irq OD=36 FB=7 FA=18
+s2a od36-f7-18@d0 Sony_HB-F700D irq OD=36 FB=7 FA=18
+s2a od36-f7-18@d0 Philips_NMS_8250_V9958 irq OD=36 FB=7 FA=18
+s2a od36-f7-18@d13 Panasonic_FS-A1GT irq-d13 OD=36 FB=7 FA=18
+s2a od36-f7-18@d13 Sony_HB-F700D irq-d13 OD=36 FB=7 FA=18
+s2a od36-f7-18@d13 Philips_NMS_8250_V9958 irq-d13 OD=36 FB=7 FA=18
+s2a od36-f7-18@d29 Panasonic_FS-A1GT irq-d29 OD=36 FB=7 FA=18
+s2a od36-f7-18@d29 Sony_HB-F700D irq-d29 OD=36 FB=7 FA=18
+s2a od36-f7-18@d29 Philips_NMS_8250_V9958 irq-d29 OD=36 FB=7 FA=18
+s2a od36-f10-15@d0 Panasonic_FS-A1GT irq OD=36 FB=10 FA=15
+s2a od36-f10-15@d0 Sony_HB-F700D irq OD=36 FB=10 FA=15
+s2a od36-f10-15@d0 Philips_NMS_8250_V9958 irq OD=36 FB=10 FA=15
+s2a od36-f10-15@d13 Panasonic_FS-A1GT irq-d13 OD=36 FB=10 FA=15
+s2a od36-f10-15@d13 Sony_HB-F700D irq-d13 OD=36 FB=10 FA=15
+s2a od36-f10-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=36 FB=10 FA=15
+s2a od36-f10-15@d29 Panasonic_FS-A1GT irq-d29 OD=36 FB=10 FA=15
+s2a od36-f10-15@d29 Sony_HB-F700D irq-d29 OD=36 FB=10 FA=15
+s2a od36-f10-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=36 FB=10 FA=15
+s2b ld16-fh18-9@d0 Panasonic_FS-A1GT irqh LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d0 Sony_HB-F700D irqh LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d0 Sony_HB-F700D irqh2 LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d0 Philips_NMS_8250_V9958 irqh2 LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d13 Panasonic_FS-A1GT irqh-d13 LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d13 Sony_HB-F700D irqh-d13 LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d13 Sony_HB-F700D irqh2-d13 LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d29 Panasonic_FS-A1GT irqh-d29 LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d29 Sony_HB-F700D irqh-d29 LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d29 Sony_HB-F700D irqh2-d29 LD=16 FHB=18 FHA=9
+s2b ld16-fh18-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=16 FHB=18 FHA=9
+s2b ld16-fh19-9@d0 Panasonic_FS-A1GT irqh LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d0 Sony_HB-F700D irqh LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d0 Sony_HB-F700D irqh2 LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d0 Philips_NMS_8250_V9958 irqh2 LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d13 Panasonic_FS-A1GT irqh-d13 LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d13 Sony_HB-F700D irqh-d13 LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d13 Sony_HB-F700D irqh2-d13 LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d29 Panasonic_FS-A1GT irqh-d29 LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d29 Sony_HB-F700D irqh-d29 LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d29 Sony_HB-F700D irqh2-d29 LD=16 FHB=19 FHA=9
+s2b ld16-fh19-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=16 FHB=19 FHA=9
+s2b ld16-fh21-9@d0 Panasonic_FS-A1GT irqh LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d0 Sony_HB-F700D irqh LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d0 Sony_HB-F700D irqh2 LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d0 Philips_NMS_8250_V9958 irqh2 LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d13 Panasonic_FS-A1GT irqh-d13 LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d13 Sony_HB-F700D irqh-d13 LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d13 Sony_HB-F700D irqh2-d13 LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d29 Panasonic_FS-A1GT irqh-d29 LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d29 Sony_HB-F700D irqh-d29 LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d29 Sony_HB-F700D irqh2-d29 LD=16 FHB=21 FHA=9
+s2b ld16-fh21-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=16 FHB=21 FHA=9
+s2b ld18-fh18-9@d0 Panasonic_FS-A1GT irqh LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d0 Sony_HB-F700D irqh LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d0 Sony_HB-F700D irqh2 LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d0 Philips_NMS_8250_V9958 irqh2 LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d13 Panasonic_FS-A1GT irqh-d13 LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d13 Sony_HB-F700D irqh-d13 LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d13 Sony_HB-F700D irqh2-d13 LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d29 Panasonic_FS-A1GT irqh-d29 LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d29 Sony_HB-F700D irqh-d29 LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d29 Sony_HB-F700D irqh2-d29 LD=18 FHB=18 FHA=9
+s2b ld18-fh18-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=18 FHB=18 FHA=9
+s2b ld18-fh19-9@d0 Panasonic_FS-A1GT irqh LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d0 Sony_HB-F700D irqh LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d0 Sony_HB-F700D irqh2 LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d0 Philips_NMS_8250_V9958 irqh2 LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d13 Panasonic_FS-A1GT irqh-d13 LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d13 Sony_HB-F700D irqh-d13 LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d13 Sony_HB-F700D irqh2-d13 LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d29 Panasonic_FS-A1GT irqh-d29 LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d29 Sony_HB-F700D irqh-d29 LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d29 Sony_HB-F700D irqh2-d29 LD=18 FHB=19 FHA=9
+s2b ld18-fh19-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=18 FHB=19 FHA=9
+s2b ld18-fh21-9@d0 Panasonic_FS-A1GT irqh LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d0 Sony_HB-F700D irqh LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d0 Sony_HB-F700D irqh2 LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d0 Philips_NMS_8250_V9958 irqh2 LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d13 Panasonic_FS-A1GT irqh-d13 LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d13 Sony_HB-F700D irqh-d13 LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d13 Sony_HB-F700D irqh2-d13 LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d29 Panasonic_FS-A1GT irqh-d29 LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d29 Sony_HB-F700D irqh-d29 LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d29 Sony_HB-F700D irqh2-d29 LD=18 FHB=21 FHA=9
+s2b ld18-fh21-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=18 FHB=21 FHA=9
+s2b ld20-fh18-9@d0 Panasonic_FS-A1GT irqh LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d0 Sony_HB-F700D irqh LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d0 Sony_HB-F700D irqh2 LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d0 Philips_NMS_8250_V9958 irqh2 LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d13 Panasonic_FS-A1GT irqh-d13 LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d13 Sony_HB-F700D irqh-d13 LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d13 Sony_HB-F700D irqh2-d13 LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d29 Panasonic_FS-A1GT irqh-d29 LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d29 Sony_HB-F700D irqh-d29 LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d29 Sony_HB-F700D irqh2-d29 LD=20 FHB=18 FHA=9
+s2b ld20-fh18-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=20 FHB=18 FHA=9
+s2b ld20-fh19-9@d0 Panasonic_FS-A1GT irqh LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d0 Sony_HB-F700D irqh LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d0 Sony_HB-F700D irqh2 LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d0 Philips_NMS_8250_V9958 irqh2 LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d13 Panasonic_FS-A1GT irqh-d13 LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d13 Sony_HB-F700D irqh-d13 LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d13 Sony_HB-F700D irqh2-d13 LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d29 Panasonic_FS-A1GT irqh-d29 LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d29 Sony_HB-F700D irqh-d29 LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d29 Sony_HB-F700D irqh2-d29 LD=20 FHB=19 FHA=9
+s2b ld20-fh19-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=20 FHB=19 FHA=9
+s2b ld20-fh21-9@d0 Panasonic_FS-A1GT irqh LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d0 Sony_HB-F700D irqh LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d0 Sony_HB-F700D irqh2 LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d0 Philips_NMS_8250_V9958 irqh2 LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d13 Panasonic_FS-A1GT irqh-d13 LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d13 Sony_HB-F700D irqh-d13 LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d13 Sony_HB-F700D irqh2-d13 LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d29 Panasonic_FS-A1GT irqh-d29 LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d29 Sony_HB-F700D irqh-d29 LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d29 Sony_HB-F700D irqh2-d29 LD=20 FHB=21 FHA=9
+s2b ld20-fh21-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=20 FHB=21 FHA=9
+s2b ld22-fh18-9@d0 Panasonic_FS-A1GT irqh LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d0 Sony_HB-F700D irqh LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d0 Sony_HB-F700D irqh2 LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d0 Philips_NMS_8250_V9958 irqh2 LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d13 Panasonic_FS-A1GT irqh-d13 LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d13 Sony_HB-F700D irqh-d13 LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d13 Sony_HB-F700D irqh2-d13 LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d29 Panasonic_FS-A1GT irqh-d29 LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d29 Sony_HB-F700D irqh-d29 LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d29 Sony_HB-F700D irqh2-d29 LD=22 FHB=18 FHA=9
+s2b ld22-fh18-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=22 FHB=18 FHA=9
+s2b ld22-fh19-9@d0 Panasonic_FS-A1GT irqh LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d0 Sony_HB-F700D irqh LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d0 Sony_HB-F700D irqh2 LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d0 Philips_NMS_8250_V9958 irqh2 LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d13 Panasonic_FS-A1GT irqh-d13 LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d13 Sony_HB-F700D irqh-d13 LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d13 Sony_HB-F700D irqh2-d13 LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d29 Panasonic_FS-A1GT irqh-d29 LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d29 Sony_HB-F700D irqh-d29 LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d29 Sony_HB-F700D irqh2-d29 LD=22 FHB=19 FHA=9
+s2b ld22-fh19-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=22 FHB=19 FHA=9
+s2b ld22-fh21-9@d0 Panasonic_FS-A1GT irqh LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d0 Sony_HB-F700D irqh LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d0 Sony_HB-F700D irqh2 LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d0 Philips_NMS_8250_V9958 irqh2 LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d13 Panasonic_FS-A1GT irqh-d13 LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d13 Sony_HB-F700D irqh-d13 LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d13 Sony_HB-F700D irqh2-d13 LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d29 Panasonic_FS-A1GT irqh-d29 LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d29 Sony_HB-F700D irqh-d29 LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d29 Sony_HB-F700D irqh2-d29 LD=22 FHB=21 FHA=9
+s2b ld22-fh21-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=22 FHB=21 FHA=9
+s2b ld24-fh18-9@d0 Panasonic_FS-A1GT irqh LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d0 Sony_HB-F700D irqh LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d0 Sony_HB-F700D irqh2 LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d0 Philips_NMS_8250_V9958 irqh2 LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d13 Panasonic_FS-A1GT irqh-d13 LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d13 Sony_HB-F700D irqh-d13 LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d13 Sony_HB-F700D irqh2-d13 LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d29 Panasonic_FS-A1GT irqh-d29 LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d29 Sony_HB-F700D irqh-d29 LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d29 Sony_HB-F700D irqh2-d29 LD=24 FHB=18 FHA=9
+s2b ld24-fh18-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=24 FHB=18 FHA=9
+s2b ld24-fh19-9@d0 Panasonic_FS-A1GT irqh LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d0 Sony_HB-F700D irqh LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d0 Sony_HB-F700D irqh2 LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d0 Philips_NMS_8250_V9958 irqh2 LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d13 Panasonic_FS-A1GT irqh-d13 LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d13 Sony_HB-F700D irqh-d13 LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d13 Sony_HB-F700D irqh2-d13 LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d29 Panasonic_FS-A1GT irqh-d29 LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d29 Sony_HB-F700D irqh-d29 LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d29 Sony_HB-F700D irqh2-d29 LD=24 FHB=19 FHA=9
+s2b ld24-fh19-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=24 FHB=19 FHA=9
+s2b ld24-fh21-9@d0 Panasonic_FS-A1GT irqh LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d0 Sony_HB-F700D irqh LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d0 Sony_HB-F700D irqh2 LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d0 Philips_NMS_8250_V9958 irqh2 LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d13 Panasonic_FS-A1GT irqh-d13 LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d13 Sony_HB-F700D irqh-d13 LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d13 Sony_HB-F700D irqh2-d13 LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d29 Panasonic_FS-A1GT irqh-d29 LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d29 Sony_HB-F700D irqh-d29 LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d29 Sony_HB-F700D irqh2-d29 LD=24 FHB=21 FHA=9
+s2b ld24-fh21-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=24 FHB=21 FHA=9
+s2b ld26-fh18-9@d0 Panasonic_FS-A1GT irqh LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d0 Sony_HB-F700D irqh LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d0 Sony_HB-F700D irqh2 LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d0 Philips_NMS_8250_V9958 irqh2 LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d13 Panasonic_FS-A1GT irqh-d13 LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d13 Sony_HB-F700D irqh-d13 LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d13 Sony_HB-F700D irqh2-d13 LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d29 Panasonic_FS-A1GT irqh-d29 LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d29 Sony_HB-F700D irqh-d29 LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d29 Sony_HB-F700D irqh2-d29 LD=26 FHB=18 FHA=9
+s2b ld26-fh18-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=26 FHB=18 FHA=9
+s2b ld26-fh19-9@d0 Panasonic_FS-A1GT irqh LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d0 Sony_HB-F700D irqh LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d0 Sony_HB-F700D irqh2 LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d0 Philips_NMS_8250_V9958 irqh2 LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d13 Panasonic_FS-A1GT irqh-d13 LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d13 Sony_HB-F700D irqh-d13 LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d13 Sony_HB-F700D irqh2-d13 LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d29 Panasonic_FS-A1GT irqh-d29 LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d29 Sony_HB-F700D irqh-d29 LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d29 Sony_HB-F700D irqh2-d29 LD=26 FHB=19 FHA=9
+s2b ld26-fh19-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=26 FHB=19 FHA=9
+s2b ld26-fh21-9@d0 Panasonic_FS-A1GT irqh LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d0 Sony_HB-F700D irqh LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d0 Sony_HB-F700D irqh2 LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d0 Philips_NMS_8250_V9958 irqh2 LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d13 Panasonic_FS-A1GT irqh-d13 LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d13 Sony_HB-F700D irqh-d13 LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d13 Sony_HB-F700D irqh2-d13 LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d29 Panasonic_FS-A1GT irqh-d29 LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d29 Sony_HB-F700D irqh-d29 LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d29 Sony_HB-F700D irqh2-d29 LD=26 FHB=21 FHA=9
+s2b ld26-fh21-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=26 FHB=21 FHA=9
+s2b ld28-fh18-9@d0 Panasonic_FS-A1GT irqh LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d0 Sony_HB-F700D irqh LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d0 Sony_HB-F700D irqh2 LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d0 Philips_NMS_8250_V9958 irqh2 LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d13 Panasonic_FS-A1GT irqh-d13 LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d13 Sony_HB-F700D irqh-d13 LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d13 Sony_HB-F700D irqh2-d13 LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d29 Panasonic_FS-A1GT irqh-d29 LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d29 Sony_HB-F700D irqh-d29 LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d29 Sony_HB-F700D irqh2-d29 LD=28 FHB=18 FHA=9
+s2b ld28-fh18-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=28 FHB=18 FHA=9
+s2b ld28-fh19-9@d0 Panasonic_FS-A1GT irqh LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d0 Sony_HB-F700D irqh LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d0 Sony_HB-F700D irqh2 LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d0 Philips_NMS_8250_V9958 irqh2 LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d13 Panasonic_FS-A1GT irqh-d13 LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d13 Sony_HB-F700D irqh-d13 LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d13 Sony_HB-F700D irqh2-d13 LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d29 Panasonic_FS-A1GT irqh-d29 LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d29 Sony_HB-F700D irqh-d29 LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d29 Sony_HB-F700D irqh2-d29 LD=28 FHB=19 FHA=9
+s2b ld28-fh19-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=28 FHB=19 FHA=9
+s2b ld28-fh21-9@d0 Panasonic_FS-A1GT irqh LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d0 Sony_HB-F700D irqh LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d0 Sony_HB-F700D irqh2 LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d0 Philips_NMS_8250_V9958 irqh2 LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d13 Panasonic_FS-A1GT irqh-d13 LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d13 Sony_HB-F700D irqh-d13 LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d13 Sony_HB-F700D irqh2-d13 LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d13 Philips_NMS_8250_V9958 irqh2-d13 LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d29 Panasonic_FS-A1GT irqh-d29 LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d29 Sony_HB-F700D irqh-d29 LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d29 Sony_HB-F700D irqh2-d29 LD=28 FHB=21 FHA=9
+s2b ld28-fh21-9@d29 Philips_NMS_8250_V9958 irqh2-d29 LD=28 FHB=21 FHA=9
+s3a ld20-lo164 Panasonic_FS-A1GT hint LD=20 LO=164
+s3a ld20-lo164 Sony_HB-F700D hint LD=20 LO=164
+s3a ld20-lo164 Philips_NMS_8250_V9958 hint LD=20 LO=164
+s3a ld20-lo165 Panasonic_FS-A1GT hint LD=20 LO=165
+s3a ld20-lo165 Sony_HB-F700D hint LD=20 LO=165
+s3a ld20-lo165 Philips_NMS_8250_V9958 hint LD=20 LO=165
+s3a ld20-lo166 Panasonic_FS-A1GT hint LD=20 LO=166
+s3a ld20-lo166 Sony_HB-F700D hint LD=20 LO=166
+s3a ld20-lo166 Philips_NMS_8250_V9958 hint LD=20 LO=166
+s3a ld20-lo167 Panasonic_FS-A1GT hint LD=20 LO=167
+s3a ld20-lo167 Sony_HB-F700D hint LD=20 LO=167
+s3a ld20-lo167 Philips_NMS_8250_V9958 hint LD=20 LO=167
+s3a ld20-lo168 Panasonic_FS-A1GT hint LD=20 LO=168
+s3a ld20-lo168 Sony_HB-F700D hint LD=20 LO=168
+s3a ld20-lo168 Philips_NMS_8250_V9958 hint LD=20 LO=168
+s3a ld20-lo169 Panasonic_FS-A1GT hint LD=20 LO=169
+s3a ld20-lo169 Sony_HB-F700D hint LD=20 LO=169
+s3a ld20-lo169 Philips_NMS_8250_V9958 hint LD=20 LO=169
+s3a ld20-lo170 Panasonic_FS-A1GT hint LD=20 LO=170
+s3a ld20-lo170 Sony_HB-F700D hint LD=20 LO=170
+s3a ld20-lo170 Philips_NMS_8250_V9958 hint LD=20 LO=170
+s3a ld20-lo171 Panasonic_FS-A1GT hint LD=20 LO=171
+s3a ld20-lo171 Sony_HB-F700D hint LD=20 LO=171
+s3a ld20-lo171 Philips_NMS_8250_V9958 hint LD=20 LO=171
+s3a ld20-lo172 Panasonic_FS-A1GT hint LD=20 LO=172
+s3a ld20-lo172 Sony_HB-F700D hint LD=20 LO=172
+s3a ld20-lo172 Philips_NMS_8250_V9958 hint LD=20 LO=172
+s3a ld20-lo173 Panasonic_FS-A1GT hint LD=20 LO=173
+s3a ld20-lo173 Sony_HB-F700D hint LD=20 LO=173
+s3a ld20-lo173 Philips_NMS_8250_V9958 hint LD=20 LO=173
+s3a ld20-lo174 Panasonic_FS-A1GT hint LD=20 LO=174
+s3a ld20-lo174 Sony_HB-F700D hint LD=20 LO=174
+s3a ld20-lo174 Philips_NMS_8250_V9958 hint LD=20 LO=174
+s3a ld20-lo175 Panasonic_FS-A1GT hint LD=20 LO=175
+s3a ld20-lo175 Sony_HB-F700D hint LD=20 LO=175
+s3a ld20-lo175 Philips_NMS_8250_V9958 hint LD=20 LO=175
+s3a ld20-lo176 Panasonic_FS-A1GT hint LD=20 LO=176
+s3a ld20-lo176 Sony_HB-F700D hint LD=20 LO=176
+s3a ld20-lo176 Philips_NMS_8250_V9958 hint LD=20 LO=176
+s3a ld20-lo177 Panasonic_FS-A1GT hint LD=20 LO=177
+s3a ld20-lo177 Sony_HB-F700D hint LD=20 LO=177
+s3a ld20-lo177 Philips_NMS_8250_V9958 hint LD=20 LO=177
+s3a ld20-lo178 Panasonic_FS-A1GT hint LD=20 LO=178
+s3a ld20-lo178 Sony_HB-F700D hint LD=20 LO=178
+s3a ld20-lo178 Philips_NMS_8250_V9958 hint LD=20 LO=178
+s3a ld20-lo179 Panasonic_FS-A1GT hint LD=20 LO=179
+s3a ld20-lo179 Sony_HB-F700D hint LD=20 LO=179
+s3a ld20-lo179 Philips_NMS_8250_V9958 hint LD=20 LO=179
+s3a ld20-lo180 Panasonic_FS-A1GT hint LD=20 LO=180
+s3a ld20-lo180 Sony_HB-F700D hint LD=20 LO=180
+s3a ld20-lo180 Philips_NMS_8250_V9958 hint LD=20 LO=180
+s3a ld20-lo181 Panasonic_FS-A1GT hint LD=20 LO=181
+s3a ld20-lo181 Sony_HB-F700D hint LD=20 LO=181
+s3a ld20-lo181 Philips_NMS_8250_V9958 hint LD=20 LO=181
+s3a ld20-lo182 Panasonic_FS-A1GT hint LD=20 LO=182
+s3a ld20-lo182 Sony_HB-F700D hint LD=20 LO=182
+s3a ld20-lo182 Philips_NMS_8250_V9958 hint LD=20 LO=182
+s3a ld22-lo164 Panasonic_FS-A1GT hint LD=22 LO=164
+s3a ld22-lo164 Sony_HB-F700D hint LD=22 LO=164
+s3a ld22-lo164 Philips_NMS_8250_V9958 hint LD=22 LO=164
+s3a ld22-lo165 Panasonic_FS-A1GT hint LD=22 LO=165
+s3a ld22-lo165 Sony_HB-F700D hint LD=22 LO=165
+s3a ld22-lo165 Philips_NMS_8250_V9958 hint LD=22 LO=165
+s3a ld22-lo166 Panasonic_FS-A1GT hint LD=22 LO=166
+s3a ld22-lo166 Sony_HB-F700D hint LD=22 LO=166
+s3a ld22-lo166 Philips_NMS_8250_V9958 hint LD=22 LO=166
+s3a ld22-lo167 Panasonic_FS-A1GT hint LD=22 LO=167
+s3a ld22-lo167 Sony_HB-F700D hint LD=22 LO=167
+s3a ld22-lo167 Philips_NMS_8250_V9958 hint LD=22 LO=167
+s3a ld22-lo168 Panasonic_FS-A1GT hint LD=22 LO=168
+s3a ld22-lo168 Sony_HB-F700D hint LD=22 LO=168
+s3a ld22-lo168 Philips_NMS_8250_V9958 hint LD=22 LO=168
+s3a ld22-lo169 Panasonic_FS-A1GT hint LD=22 LO=169
+s3a ld22-lo169 Sony_HB-F700D hint LD=22 LO=169
+s3a ld22-lo169 Philips_NMS_8250_V9958 hint LD=22 LO=169
+s3a ld22-lo170 Panasonic_FS-A1GT hint LD=22 LO=170
+s3a ld22-lo170 Sony_HB-F700D hint LD=22 LO=170
+s3a ld22-lo170 Philips_NMS_8250_V9958 hint LD=22 LO=170
+s3a ld22-lo171 Panasonic_FS-A1GT hint LD=22 LO=171
+s3a ld22-lo171 Sony_HB-F700D hint LD=22 LO=171
+s3a ld22-lo171 Philips_NMS_8250_V9958 hint LD=22 LO=171
+s3a ld22-lo172 Panasonic_FS-A1GT hint LD=22 LO=172
+s3a ld22-lo172 Sony_HB-F700D hint LD=22 LO=172
+s3a ld22-lo172 Philips_NMS_8250_V9958 hint LD=22 LO=172
+s3a ld22-lo173 Panasonic_FS-A1GT hint LD=22 LO=173
+s3a ld22-lo173 Sony_HB-F700D hint LD=22 LO=173
+s3a ld22-lo173 Philips_NMS_8250_V9958 hint LD=22 LO=173
+s3a ld22-lo174 Panasonic_FS-A1GT hint LD=22 LO=174
+s3a ld22-lo174 Sony_HB-F700D hint LD=22 LO=174
+s3a ld22-lo174 Philips_NMS_8250_V9958 hint LD=22 LO=174
+s3a ld22-lo175 Panasonic_FS-A1GT hint LD=22 LO=175
+s3a ld22-lo175 Sony_HB-F700D hint LD=22 LO=175
+s3a ld22-lo175 Philips_NMS_8250_V9958 hint LD=22 LO=175
+s3a ld22-lo176 Panasonic_FS-A1GT hint LD=22 LO=176
+s3a ld22-lo176 Sony_HB-F700D hint LD=22 LO=176
+s3a ld22-lo176 Philips_NMS_8250_V9958 hint LD=22 LO=176
+s3a ld22-lo177 Panasonic_FS-A1GT hint LD=22 LO=177
+s3a ld22-lo177 Sony_HB-F700D hint LD=22 LO=177
+s3a ld22-lo177 Philips_NMS_8250_V9958 hint LD=22 LO=177
+s3a ld22-lo178 Panasonic_FS-A1GT hint LD=22 LO=178
+s3a ld22-lo178 Sony_HB-F700D hint LD=22 LO=178
+s3a ld22-lo178 Philips_NMS_8250_V9958 hint LD=22 LO=178
+s3a ld22-lo179 Panasonic_FS-A1GT hint LD=22 LO=179
+s3a ld22-lo179 Sony_HB-F700D hint LD=22 LO=179
+s3a ld22-lo179 Philips_NMS_8250_V9958 hint LD=22 LO=179
+s3a ld22-lo180 Panasonic_FS-A1GT hint LD=22 LO=180
+s3a ld22-lo180 Sony_HB-F700D hint LD=22 LO=180
+s3a ld22-lo180 Philips_NMS_8250_V9958 hint LD=22 LO=180
+s3a ld22-lo181 Panasonic_FS-A1GT hint LD=22 LO=181
+s3a ld22-lo181 Sony_HB-F700D hint LD=22 LO=181
+s3a ld22-lo181 Philips_NMS_8250_V9958 hint LD=22 LO=181
+s3a ld22-lo182 Panasonic_FS-A1GT hint LD=22 LO=182
+s3a ld22-lo182 Sony_HB-F700D hint LD=22 LO=182
+s3a ld22-lo182 Philips_NMS_8250_V9958 hint LD=22 LO=182
+s3a ld24-lo164 Panasonic_FS-A1GT hint LD=24 LO=164
+s3a ld24-lo164 Sony_HB-F700D hint LD=24 LO=164
+s3a ld24-lo164 Philips_NMS_8250_V9958 hint LD=24 LO=164
+s3a ld24-lo165 Panasonic_FS-A1GT hint LD=24 LO=165
+s3a ld24-lo165 Sony_HB-F700D hint LD=24 LO=165
+s3a ld24-lo165 Philips_NMS_8250_V9958 hint LD=24 LO=165
+s3a ld24-lo166 Panasonic_FS-A1GT hint LD=24 LO=166
+s3a ld24-lo166 Sony_HB-F700D hint LD=24 LO=166
+s3a ld24-lo166 Philips_NMS_8250_V9958 hint LD=24 LO=166
+s3a ld24-lo167 Panasonic_FS-A1GT hint LD=24 LO=167
+s3a ld24-lo167 Sony_HB-F700D hint LD=24 LO=167
+s3a ld24-lo167 Philips_NMS_8250_V9958 hint LD=24 LO=167
+s3a ld24-lo168 Panasonic_FS-A1GT hint LD=24 LO=168
+s3a ld24-lo168 Sony_HB-F700D hint LD=24 LO=168
+s3a ld24-lo168 Philips_NMS_8250_V9958 hint LD=24 LO=168
+s3a ld24-lo169 Panasonic_FS-A1GT hint LD=24 LO=169
+s3a ld24-lo169 Sony_HB-F700D hint LD=24 LO=169
+s3a ld24-lo169 Philips_NMS_8250_V9958 hint LD=24 LO=169
+s3a ld24-lo170 Panasonic_FS-A1GT hint LD=24 LO=170
+s3a ld24-lo170 Sony_HB-F700D hint LD=24 LO=170
+s3a ld24-lo170 Philips_NMS_8250_V9958 hint LD=24 LO=170
+s3a ld24-lo171 Panasonic_FS-A1GT hint LD=24 LO=171
+s3a ld24-lo171 Sony_HB-F700D hint LD=24 LO=171
+s3a ld24-lo171 Philips_NMS_8250_V9958 hint LD=24 LO=171
+s3a ld24-lo172 Panasonic_FS-A1GT hint LD=24 LO=172
+s3a ld24-lo172 Sony_HB-F700D hint LD=24 LO=172
+s3a ld24-lo172 Philips_NMS_8250_V9958 hint LD=24 LO=172
+s3a ld24-lo173 Panasonic_FS-A1GT hint LD=24 LO=173
+s3a ld24-lo173 Sony_HB-F700D hint LD=24 LO=173
+s3a ld24-lo173 Philips_NMS_8250_V9958 hint LD=24 LO=173
+s3a ld24-lo174 Panasonic_FS-A1GT hint LD=24 LO=174
+s3a ld24-lo174 Sony_HB-F700D hint LD=24 LO=174
+s3a ld24-lo174 Philips_NMS_8250_V9958 hint LD=24 LO=174
+s3a ld24-lo175 Panasonic_FS-A1GT hint LD=24 LO=175
+s3a ld24-lo175 Sony_HB-F700D hint LD=24 LO=175
+s3a ld24-lo175 Philips_NMS_8250_V9958 hint LD=24 LO=175
+s3a ld24-lo176 Panasonic_FS-A1GT hint LD=24 LO=176
+s3a ld24-lo176 Sony_HB-F700D hint LD=24 LO=176
+s3a ld24-lo176 Philips_NMS_8250_V9958 hint LD=24 LO=176
+s3a ld24-lo177 Panasonic_FS-A1GT hint LD=24 LO=177
+s3a ld24-lo177 Sony_HB-F700D hint LD=24 LO=177
+s3a ld24-lo177 Philips_NMS_8250_V9958 hint LD=24 LO=177
+s3a ld24-lo178 Panasonic_FS-A1GT hint LD=24 LO=178
+s3a ld24-lo178 Sony_HB-F700D hint LD=24 LO=178
+s3a ld24-lo178 Philips_NMS_8250_V9958 hint LD=24 LO=178
+s3a ld24-lo179 Panasonic_FS-A1GT hint LD=24 LO=179
+s3a ld24-lo179 Sony_HB-F700D hint LD=24 LO=179
+s3a ld24-lo179 Philips_NMS_8250_V9958 hint LD=24 LO=179
+s3a ld24-lo180 Panasonic_FS-A1GT hint LD=24 LO=180
+s3a ld24-lo180 Sony_HB-F700D hint LD=24 LO=180
+s3a ld24-lo180 Philips_NMS_8250_V9958 hint LD=24 LO=180
+s3a ld24-lo181 Panasonic_FS-A1GT hint LD=24 LO=181
+s3a ld24-lo181 Sony_HB-F700D hint LD=24 LO=181
+s3a ld24-lo181 Philips_NMS_8250_V9958 hint LD=24 LO=181
+s3a ld24-lo182 Panasonic_FS-A1GT hint LD=24 LO=182
+s3a ld24-lo182 Sony_HB-F700D hint LD=24 LO=182
+s3a ld24-lo182 Philips_NMS_8250_V9958 hint LD=24 LO=182
+s3a ld26-lo164 Panasonic_FS-A1GT hint LD=26 LO=164
+s3a ld26-lo164 Sony_HB-F700D hint LD=26 LO=164
+s3a ld26-lo164 Philips_NMS_8250_V9958 hint LD=26 LO=164
+s3a ld26-lo165 Panasonic_FS-A1GT hint LD=26 LO=165
+s3a ld26-lo165 Sony_HB-F700D hint LD=26 LO=165
+s3a ld26-lo165 Philips_NMS_8250_V9958 hint LD=26 LO=165
+s3a ld26-lo166 Panasonic_FS-A1GT hint LD=26 LO=166
+s3a ld26-lo166 Sony_HB-F700D hint LD=26 LO=166
+s3a ld26-lo166 Philips_NMS_8250_V9958 hint LD=26 LO=166
+s3a ld26-lo167 Panasonic_FS-A1GT hint LD=26 LO=167
+s3a ld26-lo167 Sony_HB-F700D hint LD=26 LO=167
+s3a ld26-lo167 Philips_NMS_8250_V9958 hint LD=26 LO=167
+s3a ld26-lo168 Panasonic_FS-A1GT hint LD=26 LO=168
+s3a ld26-lo168 Sony_HB-F700D hint LD=26 LO=168
+s3a ld26-lo168 Philips_NMS_8250_V9958 hint LD=26 LO=168
+s3a ld26-lo169 Panasonic_FS-A1GT hint LD=26 LO=169
+s3a ld26-lo169 Sony_HB-F700D hint LD=26 LO=169
+s3a ld26-lo169 Philips_NMS_8250_V9958 hint LD=26 LO=169
+s3a ld26-lo170 Panasonic_FS-A1GT hint LD=26 LO=170
+s3a ld26-lo170 Sony_HB-F700D hint LD=26 LO=170
+s3a ld26-lo170 Philips_NMS_8250_V9958 hint LD=26 LO=170
+s3a ld26-lo171 Panasonic_FS-A1GT hint LD=26 LO=171
+s3a ld26-lo171 Sony_HB-F700D hint LD=26 LO=171
+s3a ld26-lo171 Philips_NMS_8250_V9958 hint LD=26 LO=171
+s3a ld26-lo172 Panasonic_FS-A1GT hint LD=26 LO=172
+s3a ld26-lo172 Sony_HB-F700D hint LD=26 LO=172
+s3a ld26-lo172 Philips_NMS_8250_V9958 hint LD=26 LO=172
+s3a ld26-lo173 Panasonic_FS-A1GT hint LD=26 LO=173
+s3a ld26-lo173 Sony_HB-F700D hint LD=26 LO=173
+s3a ld26-lo173 Philips_NMS_8250_V9958 hint LD=26 LO=173
+s3a ld26-lo174 Panasonic_FS-A1GT hint LD=26 LO=174
+s3a ld26-lo174 Sony_HB-F700D hint LD=26 LO=174
+s3a ld26-lo174 Philips_NMS_8250_V9958 hint LD=26 LO=174
+s3a ld26-lo175 Panasonic_FS-A1GT hint LD=26 LO=175
+s3a ld26-lo175 Sony_HB-F700D hint LD=26 LO=175
+s3a ld26-lo175 Philips_NMS_8250_V9958 hint LD=26 LO=175
+s3a ld26-lo176 Panasonic_FS-A1GT hint LD=26 LO=176
+s3a ld26-lo176 Sony_HB-F700D hint LD=26 LO=176
+s3a ld26-lo176 Philips_NMS_8250_V9958 hint LD=26 LO=176
+s3a ld26-lo177 Panasonic_FS-A1GT hint LD=26 LO=177
+s3a ld26-lo177 Sony_HB-F700D hint LD=26 LO=177
+s3a ld26-lo177 Philips_NMS_8250_V9958 hint LD=26 LO=177
+s3a ld26-lo178 Panasonic_FS-A1GT hint LD=26 LO=178
+s3a ld26-lo178 Sony_HB-F700D hint LD=26 LO=178
+s3a ld26-lo178 Philips_NMS_8250_V9958 hint LD=26 LO=178
+s3a ld26-lo179 Panasonic_FS-A1GT hint LD=26 LO=179
+s3a ld26-lo179 Sony_HB-F700D hint LD=26 LO=179
+s3a ld26-lo179 Philips_NMS_8250_V9958 hint LD=26 LO=179
+s3a ld26-lo180 Panasonic_FS-A1GT hint LD=26 LO=180
+s3a ld26-lo180 Sony_HB-F700D hint LD=26 LO=180
+s3a ld26-lo180 Philips_NMS_8250_V9958 hint LD=26 LO=180
+s3a ld26-lo181 Panasonic_FS-A1GT hint LD=26 LO=181
+s3a ld26-lo181 Sony_HB-F700D hint LD=26 LO=181
+s3a ld26-lo181 Philips_NMS_8250_V9958 hint LD=26 LO=181
+s3a ld26-lo182 Panasonic_FS-A1GT hint LD=26 LO=182
+s3a ld26-lo182 Sony_HB-F700D hint LD=26 LO=182
+s3a ld26-lo182 Philips_NMS_8250_V9958 hint LD=26 LO=182
+s3b od27-rl16 Panasonic_FS-A1GT r23 OD=27 RL=16
+s3b od27-rl16 Sony_HB-F700D r23 OD=27 RL=16
+s3b od27-rl17 Panasonic_FS-A1GT r23 OD=27 RL=17
+s3b od27-rl17 Sony_HB-F700D r23 OD=27 RL=17
+s3b od27-rl18 Panasonic_FS-A1GT r23 OD=27 RL=18
+s3b od27-rl18 Sony_HB-F700D r23 OD=27 RL=18
+s3b od27-rl19 Panasonic_FS-A1GT r23 OD=27 RL=19
+s3b od27-rl19 Sony_HB-F700D r23 OD=27 RL=19
+s3b od27-rl20 Panasonic_FS-A1GT r23 OD=27 RL=20
+s3b od27-rl20 Sony_HB-F700D r23 OD=27 RL=20
+s3b od27-rl21 Panasonic_FS-A1GT r23 OD=27 RL=21
+s3b od27-rl21 Sony_HB-F700D r23 OD=27 RL=21
+s3b od27-rl22 Panasonic_FS-A1GT r23 OD=27 RL=22
+s3b od27-rl22 Sony_HB-F700D r23 OD=27 RL=22
+s3b od27-rl23 Panasonic_FS-A1GT r23 OD=27 RL=23
+s3b od27-rl23 Sony_HB-F700D r23 OD=27 RL=23
+s3b od27-rl24 Panasonic_FS-A1GT r23 OD=27 RL=24
+s3b od27-rl24 Sony_HB-F700D r23 OD=27 RL=24
+s3b od27-rl25 Panasonic_FS-A1GT r23 OD=27 RL=25
+s3b od27-rl25 Sony_HB-F700D r23 OD=27 RL=25
+s3b od27-rl26 Panasonic_FS-A1GT r23 OD=27 RL=26
+s3b od27-rl26 Sony_HB-F700D r23 OD=27 RL=26
+s3b od27-rl27 Panasonic_FS-A1GT r23 OD=27 RL=27
+s3b od27-rl27 Sony_HB-F700D r23 OD=27 RL=27
+s3b od27-rl28 Panasonic_FS-A1GT r23 OD=27 RL=28
+s3b od27-rl28 Sony_HB-F700D r23 OD=27 RL=28
+s3b od27-rl29 Panasonic_FS-A1GT r23 OD=27 RL=29
+s3b od27-rl29 Sony_HB-F700D r23 OD=27 RL=29
+s3b od27-rl30 Panasonic_FS-A1GT r23 OD=27 RL=30
+s3b od27-rl30 Sony_HB-F700D r23 OD=27 RL=30
+s3b od27-rl31 Panasonic_FS-A1GT r23 OD=27 RL=31
+s3b od27-rl31 Sony_HB-F700D r23 OD=27 RL=31
+s3b od27-rl32 Panasonic_FS-A1GT r23 OD=27 RL=32
+s3b od27-rl32 Sony_HB-F700D r23 OD=27 RL=32
+s3b od27-rl33 Panasonic_FS-A1GT r23 OD=27 RL=33
+s3b od27-rl33 Sony_HB-F700D r23 OD=27 RL=33
+s3b od27-rl34 Panasonic_FS-A1GT r23 OD=27 RL=34
+s3b od27-rl34 Sony_HB-F700D r23 OD=27 RL=34
+s3b od30-rl16 Panasonic_FS-A1GT r23 OD=30 RL=16
+s3b od30-rl16 Sony_HB-F700D r23 OD=30 RL=16
+s3b od30-rl17 Panasonic_FS-A1GT r23 OD=30 RL=17
+s3b od30-rl17 Sony_HB-F700D r23 OD=30 RL=17
+s3b od30-rl18 Panasonic_FS-A1GT r23 OD=30 RL=18
+s3b od30-rl18 Sony_HB-F700D r23 OD=30 RL=18
+s3b od30-rl19 Panasonic_FS-A1GT r23 OD=30 RL=19
+s3b od30-rl19 Sony_HB-F700D r23 OD=30 RL=19
+s3b od30-rl20 Panasonic_FS-A1GT r23 OD=30 RL=20
+s3b od30-rl20 Sony_HB-F700D r23 OD=30 RL=20
+s3b od30-rl21 Panasonic_FS-A1GT r23 OD=30 RL=21
+s3b od30-rl21 Sony_HB-F700D r23 OD=30 RL=21
+s3b od30-rl22 Panasonic_FS-A1GT r23 OD=30 RL=22
+s3b od30-rl22 Sony_HB-F700D r23 OD=30 RL=22
+s3b od30-rl23 Panasonic_FS-A1GT r23 OD=30 RL=23
+s3b od30-rl23 Sony_HB-F700D r23 OD=30 RL=23
+s3b od30-rl24 Panasonic_FS-A1GT r23 OD=30 RL=24
+s3b od30-rl24 Sony_HB-F700D r23 OD=30 RL=24
+s3b od30-rl25 Panasonic_FS-A1GT r23 OD=30 RL=25
+s3b od30-rl25 Sony_HB-F700D r23 OD=30 RL=25
+s3b od30-rl26 Panasonic_FS-A1GT r23 OD=30 RL=26
+s3b od30-rl26 Sony_HB-F700D r23 OD=30 RL=26
+s3b od30-rl27 Panasonic_FS-A1GT r23 OD=30 RL=27
+s3b od30-rl27 Sony_HB-F700D r23 OD=30 RL=27
+s3b od30-rl28 Panasonic_FS-A1GT r23 OD=30 RL=28
+s3b od30-rl28 Sony_HB-F700D r23 OD=30 RL=28
+s3b od30-rl29 Panasonic_FS-A1GT r23 OD=30 RL=29
+s3b od30-rl29 Sony_HB-F700D r23 OD=30 RL=29
+s3b od30-rl30 Panasonic_FS-A1GT r23 OD=30 RL=30
+s3b od30-rl30 Sony_HB-F700D r23 OD=30 RL=30
+s3b od30-rl31 Panasonic_FS-A1GT r23 OD=30 RL=31
+s3b od30-rl31 Sony_HB-F700D r23 OD=30 RL=31
+s3b od30-rl32 Panasonic_FS-A1GT r23 OD=30 RL=32
+s3b od30-rl32 Sony_HB-F700D r23 OD=30 RL=32
+s3b od30-rl33 Panasonic_FS-A1GT r23 OD=30 RL=33
+s3b od30-rl33 Sony_HB-F700D r23 OD=30 RL=33
+s3b od30-rl34 Panasonic_FS-A1GT r23 OD=30 RL=34
+s3b od30-rl34 Sony_HB-F700D r23 OD=30 RL=34
+s3b od33-rl16 Panasonic_FS-A1GT r23 OD=33 RL=16
+s3b od33-rl16 Sony_HB-F700D r23 OD=33 RL=16
+s3b od33-rl17 Panasonic_FS-A1GT r23 OD=33 RL=17
+s3b od33-rl17 Sony_HB-F700D r23 OD=33 RL=17
+s3b od33-rl18 Panasonic_FS-A1GT r23 OD=33 RL=18
+s3b od33-rl18 Sony_HB-F700D r23 OD=33 RL=18
+s3b od33-rl19 Panasonic_FS-A1GT r23 OD=33 RL=19
+s3b od33-rl19 Sony_HB-F700D r23 OD=33 RL=19
+s3b od33-rl20 Panasonic_FS-A1GT r23 OD=33 RL=20
+s3b od33-rl20 Sony_HB-F700D r23 OD=33 RL=20
+s3b od33-rl21 Panasonic_FS-A1GT r23 OD=33 RL=21
+s3b od33-rl21 Sony_HB-F700D r23 OD=33 RL=21
+s3b od33-rl22 Panasonic_FS-A1GT r23 OD=33 RL=22
+s3b od33-rl22 Sony_HB-F700D r23 OD=33 RL=22
+s3b od33-rl23 Panasonic_FS-A1GT r23 OD=33 RL=23
+s3b od33-rl23 Sony_HB-F700D r23 OD=33 RL=23
+s3b od33-rl24 Panasonic_FS-A1GT r23 OD=33 RL=24
+s3b od33-rl24 Sony_HB-F700D r23 OD=33 RL=24
+s3b od33-rl25 Panasonic_FS-A1GT r23 OD=33 RL=25
+s3b od33-rl25 Sony_HB-F700D r23 OD=33 RL=25
+s3b od33-rl26 Panasonic_FS-A1GT r23 OD=33 RL=26
+s3b od33-rl26 Sony_HB-F700D r23 OD=33 RL=26
+s3b od33-rl27 Panasonic_FS-A1GT r23 OD=33 RL=27
+s3b od33-rl27 Sony_HB-F700D r23 OD=33 RL=27
+s3b od33-rl28 Panasonic_FS-A1GT r23 OD=33 RL=28
+s3b od33-rl28 Sony_HB-F700D r23 OD=33 RL=28
+s3b od33-rl29 Panasonic_FS-A1GT r23 OD=33 RL=29
+s3b od33-rl29 Sony_HB-F700D r23 OD=33 RL=29
+s3b od33-rl30 Panasonic_FS-A1GT r23 OD=33 RL=30
+s3b od33-rl30 Sony_HB-F700D r23 OD=33 RL=30
+s3b od33-rl31 Panasonic_FS-A1GT r23 OD=33 RL=31
+s3b od33-rl31 Sony_HB-F700D r23 OD=33 RL=31
+s3b od33-rl32 Panasonic_FS-A1GT r23 OD=33 RL=32
+s3b od33-rl32 Sony_HB-F700D r23 OD=33 RL=32
+s3b od33-rl33 Panasonic_FS-A1GT r23 OD=33 RL=33
+s3b od33-rl33 Sony_HB-F700D r23 OD=33 RL=33
+s3b od33-rl34 Panasonic_FS-A1GT r23 OD=33 RL=34
+s3b od33-rl34 Sony_HB-F700D r23 OD=33 RL=34
+s3c od27-ld18 Panasonic_FS-A1GT fh OD=27 LD=18
+s3c od27-ld18 Sony_HB-F700D fh OD=27 LD=18
+s3c od27-ld20 Panasonic_FS-A1GT fh OD=27 LD=20
+s3c od27-ld20 Sony_HB-F700D fh OD=27 LD=20
+s3c od27-ld22 Panasonic_FS-A1GT fh OD=27 LD=22
+s3c od27-ld22 Sony_HB-F700D fh OD=27 LD=22
+s3c od27-ld24 Panasonic_FS-A1GT fh OD=27 LD=24
+s3c od27-ld24 Sony_HB-F700D fh OD=27 LD=24
+s3c od27-ld26 Panasonic_FS-A1GT fh OD=27 LD=26
+s3c od27-ld26 Sony_HB-F700D fh OD=27 LD=26
+s3c od30-ld18 Panasonic_FS-A1GT fh OD=30 LD=18
+s3c od30-ld18 Sony_HB-F700D fh OD=30 LD=18
+s3c od30-ld20 Panasonic_FS-A1GT fh OD=30 LD=20
+s3c od30-ld20 Sony_HB-F700D fh OD=30 LD=20
+s3c od30-ld22 Panasonic_FS-A1GT fh OD=30 LD=22
+s3c od30-ld22 Sony_HB-F700D fh OD=30 LD=22
+s3c od30-ld24 Panasonic_FS-A1GT fh OD=30 LD=24
+s3c od30-ld24 Sony_HB-F700D fh OD=30 LD=24
+s3c od30-ld26 Panasonic_FS-A1GT fh OD=30 LD=26
+s3c od30-ld26 Sony_HB-F700D fh OD=30 LD=26
+s3c od33-ld18 Panasonic_FS-A1GT fh OD=33 LD=18
+s3c od33-ld18 Sony_HB-F700D fh OD=33 LD=18
+s3c od33-ld20 Panasonic_FS-A1GT fh OD=33 LD=20
+s3c od33-ld20 Sony_HB-F700D fh OD=33 LD=20
+s3c od33-ld22 Panasonic_FS-A1GT fh OD=33 LD=22
+s3c od33-ld22 Sony_HB-F700D fh OD=33 LD=22
+s3c od33-ld24 Panasonic_FS-A1GT fh OD=33 LD=24
+s3c od33-ld24 Sony_HB-F700D fh OD=33 LD=24
+s3c od33-ld26 Panasonic_FS-A1GT fh OD=33 LD=26
+s3c od33-ld26 Sony_HB-F700D fh OD=33 LD=26

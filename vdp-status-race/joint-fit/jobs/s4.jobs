@@ -1,0 +1,66 @@
+s2a od28-f7-15@d0 Panasonic_FS-A1GT irq OD=28
+s2a od28-f7-15@d0 Sony_HB-F700D irq OD=28
+s2a od28-f7-15@d0 Philips_NMS_8250_V9958 irq OD=28
+s2a od28-f7-15@d13 Panasonic_FS-A1GT irq-d13 OD=28
+s2a od28-f7-15@d13 Sony_HB-F700D irq-d13 OD=28
+s2a od28-f7-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=28
+s2a od28-f7-15@d29 Panasonic_FS-A1GT irq-d29 OD=28
+s2a od28-f7-15@d29 Sony_HB-F700D irq-d29 OD=28
+s2a od28-f7-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=28
+s3c od28-ld22 Panasonic_FS-A1GT fh OD=28 LD=22
+s3c od28-ld22 Sony_HB-F700D fh OD=28 LD=22
+s3b od28-rl20 Panasonic_FS-A1GT r23 OD=28 RL=20
+s3b od28-rl20 Sony_HB-F700D r23 OD=28 RL=20
+s3b od28-rl21 Panasonic_FS-A1GT r23 OD=28 RL=21
+s3b od28-rl21 Sony_HB-F700D r23 OD=28 RL=21
+s3b od28-rl22 Panasonic_FS-A1GT r23 OD=28 RL=22
+s3b od28-rl22 Sony_HB-F700D r23 OD=28 RL=22
+s3b od28-rl23 Panasonic_FS-A1GT r23 OD=28 RL=23
+s3b od28-rl23 Sony_HB-F700D r23 OD=28 RL=23
+s3b od28-rl24 Panasonic_FS-A1GT r23 OD=28 RL=24
+s3b od28-rl24 Sony_HB-F700D r23 OD=28 RL=24
+s3b od28-rl25 Panasonic_FS-A1GT r23 OD=28 RL=25
+s3b od28-rl25 Sony_HB-F700D r23 OD=28 RL=25
+s3b od28-rl26 Panasonic_FS-A1GT r23 OD=28 RL=26
+s3b od28-rl26 Sony_HB-F700D r23 OD=28 RL=26
+s3b od28-rl27 Panasonic_FS-A1GT r23 OD=28 RL=27
+s3b od28-rl27 Sony_HB-F700D r23 OD=28 RL=27
+s3b od28-rl28 Panasonic_FS-A1GT r23 OD=28 RL=28
+s3b od28-rl28 Sony_HB-F700D r23 OD=28 RL=28
+s3b od28-rl29 Panasonic_FS-A1GT r23 OD=28 RL=29
+s3b od28-rl29 Sony_HB-F700D r23 OD=28 RL=29
+s3b od28-rl30 Panasonic_FS-A1GT r23 OD=28 RL=30
+s3b od28-rl30 Sony_HB-F700D r23 OD=28 RL=30
+s2a od29-f7-15@d0 Panasonic_FS-A1GT irq OD=29
+s2a od29-f7-15@d0 Sony_HB-F700D irq OD=29
+s2a od29-f7-15@d0 Philips_NMS_8250_V9958 irq OD=29
+s2a od29-f7-15@d13 Panasonic_FS-A1GT irq-d13 OD=29
+s2a od29-f7-15@d13 Sony_HB-F700D irq-d13 OD=29
+s2a od29-f7-15@d13 Philips_NMS_8250_V9958 irq-d13 OD=29
+s2a od29-f7-15@d29 Panasonic_FS-A1GT irq-d29 OD=29
+s2a od29-f7-15@d29 Sony_HB-F700D irq-d29 OD=29
+s2a od29-f7-15@d29 Philips_NMS_8250_V9958 irq-d29 OD=29
+s3c od29-ld22 Panasonic_FS-A1GT fh OD=29 LD=22
+s3c od29-ld22 Sony_HB-F700D fh OD=29 LD=22
+s3b od29-rl20 Panasonic_FS-A1GT r23 OD=29 RL=20
+s3b od29-rl20 Sony_HB-F700D r23 OD=29 RL=20
+s3b od29-rl21 Panasonic_FS-A1GT r23 OD=29 RL=21
+s3b od29-rl21 Sony_HB-F700D r23 OD=29 RL=21
+s3b od29-rl22 Panasonic_FS-A1GT r23 OD=29 RL=22
+s3b od29-rl22 Sony_HB-F700D r23 OD=29 RL=22
+s3b od29-rl23 Panasonic_FS-A1GT r23 OD=29 RL=23
+s3b od29-rl23 Sony_HB-F700D r23 OD=29 RL=23
+s3b od29-rl24 Panasonic_FS-A1GT r23 OD=29 RL=24
+s3b od29-rl24 Sony_HB-F700D r23 OD=29 RL=24
+s3b od29-rl25 Panasonic_FS-A1GT r23 OD=29 RL=25
+s3b od29-rl25 Sony_HB-F700D r23 OD=29 RL=25
+s3b od29-rl26 Panasonic_FS-A1GT r23 OD=29 RL=26
+s3b od29-rl26 Sony_HB-F700D r23 OD=29 RL=26
+s3b od29-rl27 Panasonic_FS-A1GT r23 OD=29 RL=27
+s3b od29-rl27 Sony_HB-F700D r23 OD=29 RL=27
+s3b od29-rl28 Panasonic_FS-A1GT r23 OD=29 RL=28
+s3b od29-rl28 Sony_HB-F700D r23 OD=29 RL=28
+s3b od29-rl29 Panasonic_FS-A1GT r23 OD=29 RL=29
+s3b od29-rl29 Sony_HB-F700D r23 OD=29 RL=29
+s3b od29-rl30 Panasonic_FS-A1GT r23 OD=29 RL=30
+s3b od29-rl30 Sony_HB-F700D r23 OD=29 RL=30
